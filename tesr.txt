@@ -38,3 +38,12 @@
     //     </ul>
     //   </div>
     // </nav>
+
+
+    {projects.map((project) => (
+        <ProjectCard
+          image={project.image}
+          name={project.name}
+          description={project.projectDescription}
+        ></ProjectCard>
+      ))}
