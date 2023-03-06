@@ -1,0 +1,40 @@
+ // <nav className="navbar navbar-light p-0 navbar-expand-sm">
+    //   <Link className="navbar-brand" to="/">
+    //     OZ Technologies.
+    //   </Link>
+    //   <button
+    //     className="navbar-toggler"
+    //     type="button"
+    //     data-toggle="collapse"
+    //     data-target="#coll"
+    //   >
+    //     <span className="navbar-toggler-icon"></span>
+    //   </button>
+
+    //   <div className="collapse navbar-collapse" id="coll">
+    //     <ul className="navbar-nav">
+    //       <li className="nav-item">
+    //         <NavLink
+    //           to="/"
+    //           end
+    //           className={({ isActive }) =>
+    //             isActive ? "nav-link active mx-auto" : "nav-link"
+    //           }
+    //         >
+    //           Home
+    //         </NavLink>
+    //       </li>
+    //       <li className="nav-item">
+    //         <NavLink
+    //           to="/"
+    //           end
+    //           className={({ isActive }) =>
+    //             isActive ? "nav-link active mx-auto" : "nav-link"
+    //           }
+    //         >
+    //           Home
+    //         </NavLink>
+    //       </li>
+    //     </ul>
+    //   </div>
+    // </nav>
