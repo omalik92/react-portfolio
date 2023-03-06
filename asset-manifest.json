@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.f3546ab8.css",
-    "main.js": "/react-portfolio/static/js/main.82ad2445.js",
+    "main.js": "/react-portfolio/static/js/main.d2c81a43.js",
+    "static/media/Horiseon.png": "/react-portfolio/static/media/Horiseon.a4c1a3c7544a70a9ec48.png",
+    "static/media/EcoExplorer.png": "/react-portfolio/static/media/EcoExplorer.e4cf37014b81c9110582.png",
+    "static/media/WeatherDashboard.png": "/react-portfolio/static/media/WeatherDashboard.8b63dc6006739d4cb59c.png",
+    "static/media/WorkDayScheduler.png": "/react-portfolio/static/media/WorkDayScheduler.e97df761429fb0849f97.png",
+    "static/media/CodingQuiz.png": "/react-portfolio/static/media/CodingQuiz.768a2914bca9c2bff61e.png",
+    "static/media/PasswordGenerator.png": "/react-portfolio/static/media/PasswordGenerator.aa25cbf89939def02f6b.png",
     "index.html": "/react-portfolio/index.html",
     "main.f3546ab8.css.map": "/react-portfolio/static/css/main.f3546ab8.css.map",
-    "main.82ad2445.js.map": "/react-portfolio/static/js/main.82ad2445.js.map"
+    "main.d2c81a43.js.map": "/react-portfolio/static/js/main.d2c81a43.js.map"
   },
   "entrypoints": [
     "static/css/main.f3546ab8.css",
-    "static/js/main.82ad2445.js"
+    "static/js/main.d2c81a43.js"
   ]
 }
