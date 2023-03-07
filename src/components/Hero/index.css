@@ -1,0 +1,74 @@
+.hero {
+  color: var(--navbar-text);
+}
+
+.hero h1 {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.hero h5 {
+  padding-bottom: 10px;
+}
+
+.bodyText {
+  color: var(--navbar-text);
+}
+
+.profileImage {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.icons {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 40px;
+  margin-top: 80px;
+}
+
+.icon {
+  height: 80px;
+}
+
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  width: 110px;
+}
+
+.rotate {
+  animation: rotation 3s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .description {
+    text-align: center;
+  }
+  .home {
+    height: 100%;
+  }
+  .icons {
+    justify-content: center;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .icon {
+    height: 60px;
+  }
+  .icons {
+    margin-top: 30px;
+  }
+}

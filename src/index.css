@@ -15,6 +15,8 @@
   --navbar-active: #564f6f;
   --navbar-inactive: #4c495d;
   --navbar-text: peachpuff;
+  --card-background: #f0f0f0;
+  --footer-color: #222222;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -22,4 +24,27 @@
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.projectGallery {
+  background-color: var(--black-background);
+}
+
+.projectGallery h1 {
+  color: var(--navbar-text);
+  padding-top: 20px;
+  padding-left: 15px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.card {
+  border: 2px solid var(--navbar-text) !important;
+  background-color: var(--card-background) !important;
+  margin-bottom: 40px;
+}
+
+.home {
+  background-color: var(--black-background);
+  height: 100vh;
 }

@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Horiseon",
     "image": "Horiseon.png",
-    "description": "In this project HTML and CSS code was refactored for an organisation called Horiseon\n to improve the accessibilty standards of their static home page.",
+    "description": "In this project HTML and CSS code was refactored for an organisation called Horiseon to improve the accessibilty standards of their static home page.",
     "github": "",
     "deployed": ""
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Work Day Scheduler",
     "image": "WorkDayScheduler.png",
-    "description": "This project contains a work day scheduler devleoped utitlising the third party API JQuery and the moment JS libraray. The scheduler contains 1 hour timeblocks satring from 9AM and ending ant 5PM. The colour coded time blocks can be edited and saved to keep a record of your daily tasks.",
+    "description": "This project contains a work day scheduler devleoped utitlising the third party API JQuery and the moment JS libraray. The scheduler contains 1 hour timeblocks starting from 9AM and ending ant 5PM.",
     "github": "",
     "deployed": "deployed"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Weather Dashboard",
     "image": "WeatherDashboard.png",
-    "description": "This project is a repsonsive weather app designed to be viewed within your browser on your mobile phone or PC. The required data for this application was provided by the Open-Weather API and requested using AJAX ",
+    "description": "This project is a repsonsive weather app designed to be viewed within your browser on your mobile phone or PC. The required data for this application was provided by the Open-Weather API. ",
     "github": "",
     "deployed": "deployed"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Eco Travel Planner",
     "image": "EcoExplorer.png",
-    "description": "We created an application to help travelers who are environmentally conscious and want to minimize their carbon footprint. The app helps travelers find and book eco-friendly accommodations and provides information about sustainable travel options such as hike and bike trails in searched cities.",
+    "description": "We created an application to help travelers who are environmentally conscious and want to minimize their carbon footprint. The app helps travelers find and book eco-friendly accommodations and more.",
     "github": "",
     "deployed": ""
   }

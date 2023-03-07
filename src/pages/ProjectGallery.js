@@ -5,12 +5,14 @@ import projects from "../projects.json";
 
 function ProjectGallery() {
   return (
-    <div>
+    <div className="projectGallery">
       <h1>Project Gallery</h1>
       <Container>
         <Row>
           {projects.map((project) => (
-            <Col>
+            <Col
+              style={{ display: "flex", justifyContent: "center", padding: 0 }}
+            >
               <ProjectCard
                 key={project.id}
                 name={project.name}

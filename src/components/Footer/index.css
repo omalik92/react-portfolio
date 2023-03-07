@@ -1,0 +1,33 @@
+.footer {
+  height: 100px;
+  color: var(--navbar-text);
+  background-color: var(--footer-color);
+}
+
+.socialMedia {
+  height: 25px;
+  color: var(--navbar-text);
+  -webkit-filter: brightness(100%);
+}
+
+.socialMedia:hover {
+  -webkit-filter: brightness(70%);
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.rights {
+  display: block;
+  text-align: center;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
